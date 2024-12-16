@@ -11,10 +11,10 @@ const Hero = () => {
                 <img src={hero} alt="Hero" className='object-contain' />
             </div>
             <div className='w-1/2'>
-                <p className='font-semibold text-6xl'>
+                <p className=' text-[#1f2027] font-semibold text-6xl'>
                     Experience the best in fashion at ShopPod!
                 </p>
-                <p className='font-normal text-base my-12 '>
+                <p className='text-[#1f2027] font-normal text-base my-12 '>
                     Lorem ipsum dolor sit amet consectetur. Sit mattis donec mi bibendum integer rutrum nisi. A nec nisl vitae
                 </p>
                 <button className='bg-[#1f2027] flex items-center text-white py-4 px-12 gap-2'>
