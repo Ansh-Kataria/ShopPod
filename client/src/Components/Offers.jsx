@@ -7,11 +7,11 @@ import { faArrowRight, faHeart } from '@fortawesome/free-solid-svg-icons'
 
 const Offers = () => {
     return (
-        <div className='mt-24 mx-32 flex flex-col items-center gap-12'>
+        <div className='mt-24 mx-32 flex flex-col items-center gap-12 '>
             <p className='font-medium text-lg text-[#1f2027]'>Special Offers</p>
             <div className='flex gap-9'>
 
-                <div className='border-t-0 border bg-white rounded-3xl'>
+                <div className='border-t-0 border bg-white rounded-3xl shadow-lg'>
                     <div className='rounded-3xl'>
                         <img src={Offer1} alt="offer1" className='object-fill' />
                     </div>
@@ -27,7 +27,7 @@ const Offers = () => {
 
                 </div>
 
-                <div className='border-t-0 border bg-white rounded-3xl'>
+                <div className='border-t-0 border bg-white rounded-3xl shadow-lg'>
                     <div className='rounded-3xl'>
                         <img src={Offer2} alt="offer2" className='object-fill' />
                     </div>
@@ -43,7 +43,7 @@ const Offers = () => {
 
                 </div>
 
-                <div className='border border-t-0 bg-white rounded-3xl'>
+                <div className='border border-t-0 bg-white rounded-3xl shadow-lg'>
                     <div className='rounded-t-3xl'>
                         <img src={Offer3} alt="offer3" className='object-fill' />
                     </div>

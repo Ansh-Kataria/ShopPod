@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Inter', 'sans-serif'], // Use Inter as the default sans-serif font
+        sans: ['Inter', 'sans-serif'],
+        roboto: ['Roboto', 'sans-serif'],
       },
     },
   },
