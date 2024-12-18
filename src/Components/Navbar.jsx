@@ -5,7 +5,7 @@ const Navbar = () => {
         <div className='flex justify-between items-center pt-10 px-32 '>
             <div className='flex gap-14 items-center'>
                 <div className='flex font-bold text-2xl'>
-                    <p className='text-[#424242]'>Shop  </p>
+                    <p className='text-[#424242]'>Shop</p>
                     <p className='text-[#51998D]'>Pod</p>
                 </div>
                 <div className='flex gap-10 text-[#262626] text-base font-normal'>
