@@ -9,7 +9,7 @@ const Navbar = () => {
                     <p className='text-[#51998D]'>Pod</p>
                 </div>
                 <div className='flex gap-10 text-[#262626] text-base font-normal'>
-                    <a href=" ">Home</a>
+                    <a href="">Home</a>
                     <a href="">About</a>
                     <a href="">Testimonials</a>
                     <a href="">Blogs</a>
